@@ -1,9 +1,6 @@
 name: Deploy SERENA website to GitHub Pages
 
 on:
-  push:
-    branches:
-      - serena
   workflow_dispatch:
 
 permissions:
